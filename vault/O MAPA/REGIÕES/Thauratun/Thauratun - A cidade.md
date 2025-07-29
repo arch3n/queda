@@ -5,7 +5,8 @@ Conceitos: Tutorial, big new world, tudo para se descobrir, thaumaturgy
 
 Capital da região de mesmo nome. Solo fraco e pobre. A cidade sobrevive na base de avanços tecnológicos que permitem suas rações durarem mais. Ela só durou até hoje devido à Carsten, um magnata que sumiu antes da cidade ser isolada, que estocou centenas e centenas de rações em sua casa.
 
-Representa a depressão ([[O Plot]]). As pessoas tristes dessa cidade andam sumindo. Todos usam air-pods (versão steampunk rádio) para facilitar a comunicação. A party recebe alguns com alguns problemas na bateria.
+Representa a depressão ([[O Plot]]).  Sub representação: Revolta.
+As pessoas tristes dessa cidade andam sumindo. Todos usam air-pods (versão steampunk rádio) para facilitar a comunicação. A party recebe alguns com alguns problemas na bateria.
 
 Eles são instruídos a não irem longe na floresta que envolve a cidade, pois ninguém volta de lá (na realidade, é o buraco temporal). O resto da região não tem mais contato com Thauratun, então a pequena cidade está fadada a morte devido a inanição. 
 
